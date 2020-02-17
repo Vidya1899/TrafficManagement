@@ -1,0 +1,28 @@
+[
+    {
+        "laneId":"a",
+        "dens1":4,
+        "dens2":2
+    },
+    {
+        "laneId":"b",
+        "dens1":1,
+        "dens2":6
+    },
+    {
+        "laneId":"c",
+        "dens1":2,
+        "dens2":3
+    },
+    {
+        "laneId":"d",
+        "dens1":4,
+        "dens2":1
+    },
+    {
+        "laneId":"e",
+        "dens1":6,
+        "dens2":2
+    }
+
+]

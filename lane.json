@@ -1,0 +1,27 @@
+[
+    {
+        "laneId":"a",
+        "end1":1,
+        "end2":2    
+    },
+    {
+        "laneId":"b",
+        "end1":2,
+        "end2":3    
+    },
+    {
+        "laneId":"c",
+        "end1":3,
+        "end2":4    
+    },
+    {
+        "laneId":"d",
+        "end1":4,
+        "end2":5    
+    },
+    {
+        "laneId":"e",
+        "end1":2,
+        "end2":5    
+    }
+]
