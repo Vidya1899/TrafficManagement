@@ -23,7 +23,9 @@ for junc in range(len(mapData)):
 #print(indepJunc)
 for lane in laneData:
 #    print(lane['end1'], "is at the endpoint of 1 of lane", lane['laneId'])
-    indepJunc[lane['end1']].append((lane['laneId'],1))
+    print(lane['dens1'],"is the density of end 1 of", lane['laneId'])
+    indepJunc[lane['end1']].append((lane['laneId'],1,lane['dens1']))
 #    print(lane['end2'], "is at the endpoint of 2 of lane", lane['laneId'])
-    indepJunc[lane['end2']].append((lane['laneId'],2))
+    print(lane['dens2'],"is the density of end 2 of", lane['laneId'])
+    indepJunc[lane['end2']].append((lane['laneId'],2,lane['dens2']))
 print(indepJunc)

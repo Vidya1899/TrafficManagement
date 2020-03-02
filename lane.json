@@ -2,26 +2,36 @@
     {
         "laneId":"a",
         "end1":1,
-        "end2":2    
+        "end2":2,
+        "dens1":4,
+        "dens2":2
     },
     {
         "laneId":"b",
         "end1":2,
-        "end2":3    
+        "end2":3, 
+        "dens1":1,
+        "dens2":6
     },
     {
         "laneId":"c",
         "end1":3,
-        "end2":4    
+        "end2":4, 
+        "dens1":2,
+        "dens2":3
     },
     {
         "laneId":"d",
         "end1":4,
-        "end2":5    
+        "end2":5, 
+        "dens1":4,
+        "dens2":1 
     },
     {
         "laneId":"e",
         "end1":2,
-        "end2":5    
+        "end2":5, 
+        "dens1":6,
+        "dens2":2  
     }
 ]
