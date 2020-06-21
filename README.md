@@ -6,7 +6,7 @@
 	Use selection sort the list of tuples where the last index in every tuple is the density of vehicles.  
 	Use edf func to schedule based on the densities at each lane    
 	Print the periods during which respective lanes will remain open (signal-green).  
-Output:  
+Output(elaborated) 
 At junction 1 :a1(end 1 of lane ‘a’) opens at 12:00.  
 At junction 2: b1(end 1 of lane ‘b’) opens at 12:00.  
 At junction 2: d2(end 2 of lane ‘d’) opens at 12:00.  
