@@ -17,3 +17,5 @@ At junction 2: e2(end 2 of lane ‘e’) opens at 12:02.
 At junction 2: a2(end 2 of lane ‘a’) opens at 12:02.  
 At junction 3: b2(end 2 of lane ‘b’) opens at 12:04.  
 At junction 4: d1(end 1 of lane ‘d’) opens at 12:06.  
+
+
