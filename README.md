@@ -19,3 +19,5 @@ At junction 3: b2(end 2 of lane ‘b’) opens at 12:04.
 At junction 4: d1(end 1 of lane ‘d’) opens at 12:06.  
 
 
+
+
